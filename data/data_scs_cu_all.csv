@@ -1,0 +1,96 @@
+﻿,competency_cluster,competency_unit,competency,demonstrated,,competency_unit_name,dtle,nuar,klip,cxch,competency_name,competency_cluster_name
+0,3 ETHICS AND RI,3.1 ANI,3.1.01,0.8,,3.1 Anticipating Impact,1,1,0,1,3.1.01 Foresight / forecasting impact,3 Ethics and Responsible Innovation
+1,3 ETHICS AND RI,3.1 ANI,3.1.02,0.8,,3.1 Anticipating Impact,1,1,0,1,3.1.02 Bias in data collection and sampling,3 Ethics and Responsible Innovation
+2,3 ETHICS AND RI,3.1 ANI,3.1.03,1,,3.1 Anticipating Impact,1,1,1,1,3.1.03 Public value concept,3 Ethics and Responsible Innovation
+3,3 ETHICS AND RI,3.1 ANI,3.1.04,1,,3.1 Anticipating Impact,1,1,1,1,3.1.04 Digital rights,3 Ethics and Responsible Innovation
+4,3 ETHICS AND RI,3.1 ANI,3.1.05,0.5,,3.1 Anticipating Impact,0,1,0,1,3.1.05 Back-casting,3 Ethics and Responsible Innovation
+5,3 ETHICS AND RI,3.1 ANI,3.1.06,0.4,,3.1 Anticipating Impact,0,0.5,0,1,3.1.06 Landscape of data ethics frameworks,3 Ethics and Responsible Innovation
+8,3 ETHICS AND RI,3.2 RCM,3.2.01,1,,3.2 Reflecting on Causes and Mechanisms,1,1,1,1,3.2.01 Agents (entities with agency) and behaviours,3 Ethics and Responsible Innovation
+9,3 ETHICS AND RI,3.2 RCM,3.2.02,0.8,,3.2 Reflecting on Causes and Mechanisms,0,1,1,1,3.2.02 Marco-environment of global markets,3 Ethics and Responsible Innovation
+10,3 ETHICS AND RI,3.2 RCM,3.2.03,0.8,,3.2 Reflecting on Causes and Mechanisms,1,1,0,1,"3.2.03 Assumptions, beliefs and values",3 Ethics and Responsible Innovation
+11,3 ETHICS AND RI,3.2 RCM,3.2.04,1,,3.2 Reflecting on Causes and Mechanisms,1,1,1,1,3.2.04 Principles of critical thinking,3 Ethics and Responsible Innovation
+12,3 ETHICS AND RI,3.2 RCM,3.2.05,0.4,,3.2 Reflecting on Causes and Mechanisms,0,0.5,0,1,3.2.05 Macro environment of culture and practices,3 Ethics and Responsible Innovation
+13,3 ETHICS AND RI,3.3 DLO,3.3.01,1,,3.3 Deliberating Options,1,1,1,1,3.3.01 Openness and inclusion,3 Ethics and Responsible Innovation
+14,3 ETHICS AND RI,3.3 DLO,3.3.02,1,,3.3 Deliberating Options,1,1,1,1,3.3.02 Empowerment in governance processes,3 Ethics and Responsible Innovation
+15,3 ETHICS AND RI,3.3 DLO,3.3.03,1,,3.3 Deliberating Options,1,1,1,1,3.3.03 Deliberation and debate in governance process,3 Ethics and Responsible Innovation
+16,3 ETHICS AND RI,3.3 DLO,3.3.04,1,,3.3 Deliberating Options,1,1,1,1,3.3.04 Consensus seeking and conflict resolution,3 Ethics and Responsible Innovation
+17,3 ETHICS AND RI,3.3 DLO,3.3.05,0.8,,3.3 Deliberating Options,1,1,0,1,3.3.05 Co-creation in governance processes,3 Ethics and Responsible Innovation
+18,3 ETHICS AND RI,3.4 ER,3.4.01,1,,3.4 Embedding Responsiviness,1,1,1,1,3.4.01 Empowerment for responsiveness,3 Ethics and Responsible Innovation
+19,3 ETHICS AND RI,3.4 ER,3.4.02,1,,3.4 Embedding Responsiviness,1,1,1,1,3.4.02 Risk management concept,3 Ethics and Responsible Innovation
+20,2 DIGITAL AND TECHNICAL,2.1 DTT,2.1.01,1,,2.1 Digital Technology Trends,1,1,1,1,2.1.01 Landscape of digital tools and technologies,2 Digital and Technical
+21,2 DIGITAL AND TECHNICAL,2.1 DTT,2.1.02,0.5,,2.1 Digital Technology Trends,0,0,1,1,2.1.02 Disruptive innovation,2 Digital and Technical
+22,2 DIGITAL AND TECHNICAL,2.1 DTT,2.1.03,0.8,,2.1 Digital Technology Trends,1,0,1,1,2.1.03 Incremental innovation,2 Digital and Technical
+23,2 DIGITAL AND TECHNICAL,2.1 DTT,2.1.04,0.8,,2.1 Digital Technology Trends,1,0,1,1,2.1.04 Trend analysis,2 Digital and Technical
+24,2 DIGITAL AND TECHNICAL,2.2 TA,2.2.01,0.6,,2.2 Technology Applications,1,0,0.5,1,2.2.01 Measurement tools,2 Digital and Technical
+25,2 DIGITAL AND TECHNICAL,2.2 TA,2.2.02,1,,2.2 Technology Applications,1,1,1,1,2.2.02 Best practice (tool application),2 Digital and Technical
+26,2 DIGITAL AND TECHNICAL,2.2 TA,2.2.03,0.8,,2.2 Technology Applications,1,0,1,1,2.2.03 Data collection tools and methods (quantitative & qualitative),2 Digital and Technical
+27,2 DIGITAL AND TECHNICAL,2.2 TA,2.2.04,0.6,,2.2 Technology Applications,1,0,0.5,1,2.2.04 Monitoring tools and methods (quantitative & qualitative),2 Digital and Technical
+28,2 DIGITAL AND TECHNICAL,2.2 TA,2.2.05,0.5,,2.2 Technology Applications,0,1,1,0,2.2.05 Benchmarking,2 Digital and Technical
+29,2 DIGITAL AND TECHNICAL,2.2 TA,2.2.06,0.5,,2.2 Technology Applications,0,1,1,0,2.2.06 Encryption ,2 Digital and Technical
+30,2 DIGITAL AND TECHNICAL,2.3 DSA,2.3.01,0.9,,2.3 Data Science and Analytics,1,1,0.5,1,2.3.01 Data quality management,2 Digital and Technical
+31,2 DIGITAL AND TECHNICAL,2.3 DSA,2.3.02,0.9,,2.3 Data Science and Analytics,1,1,0.5,1,2.3.02 Data science lifecycle,2 Digital and Technical
+32,2 DIGITAL AND TECHNICAL,2.3 DSA,2.3.03,1,,2.3 Data Science and Analytics,1,1,1,1,2.3.03 Spatial and demographic analysis,2 Digital and Technical
+33,2 DIGITAL AND TECHNICAL,2.3 DSA,2.3.04,0.6,,2.3 Data Science and Analytics,0,1,0.5,1,2.3.04 Statistical and probabilistic methods,2 Digital and Technical
+34,2 DIGITAL AND TECHNICAL,2.3 DSA,2.3.05,1,,2.3 Data Science and Analytics,1,1,1,1,"2.3.05 Metadata, ontologies and data models",2 Digital and Technical
+35,2 DIGITAL AND TECHNICAL,2.3 DSA,2.3.06,1,,2.3 Data Science and Analytics,1,1,1,1,2.3.06 Data sharing ecosystems,2 Digital and Technical
+36,2 DIGITAL AND TECHNICAL,2.3 DSA,2.3.07,0.9,,2.3 Data Science and Analytics,1,1,0.5,1,2.3.07 Data value chain,2 Digital and Technical
+37,2 DIGITAL AND TECHNICAL,2.4 USBE,2.4.01,0.8,,2.4 Urban systems  and Built Environment,1,0,1,1,2.4.01 System performance indicators,2 Digital and Technical
+38,2 DIGITAL AND TECHNICAL,2.4 USBE,2.4.02,1,,2.4 Urban systems  and Built Environment,1,1,1,1,2.4.02 Boundary spanning and management,2 Digital and Technical
+39,2 DIGITAL AND TECHNICAL,2.4 USBE,2.4.03,0.9,,2.4 Urban systems  and Built Environment,1,1,0.5,1,2.4.03 Principles of system dynamics,2 Digital and Technical
+40,2 DIGITAL AND TECHNICAL,2.4 USBE,2.4.04,0.6,,2.4 Urban systems  and Built Environment,0,1,0.5,1,2.4.04 Socio-technical innovation theory,2 Digital and Technical
+41,2 DIGITAL AND TECHNICAL,2.4 USBE,2.4.05,0.5,,2.4 Urban systems  and Built Environment,0,1,0,1,2.4.05 Path dependence in build environment socio-technical systems,2 Digital and Technical
+42,2 DIGITAL AND TECHNICAL,2.4 USBE,2.4.06,1,,2.4 Urban systems  and Built Environment,1,1,1,1,2.4.06 Digital architectures,2 Digital and Technical
+43,2 DIGITAL AND TECHNICAL,2.5 CYB,2.5.01,0.6,,2.5 Cybersecurity,0,1,1,0.5,"2.5.01 Cybersecurity policy, governance and people",2 Digital and Technical
+44,2 DIGITAL AND TECHNICAL,2.5 CYB,2.5.02,0.5,,2.5 Cybersecurity,0,1,1,0,2.5.02 Cybersecurity systems administration,2 Digital and Technical
+45,2 DIGITAL AND TECHNICAL,2.5 CYB,2.5.03,0.8,,2.5 Cybersecurity,0,1,1,1,2.5.03 Cybersecurity data administration,2 Digital and Technical
+46,2 DIGITAL AND TECHNICAL,2.5 CYB,2.5.04,0.5,,2.5 Cybersecurity,0,0.5,1,0.5,2.5.04 Cyber incident management and response,2 Digital and Technical
+47,2 DIGITAL AND TECHNICAL,2.5 CYB,2.5.05,0.3,,2.5 Cybersecurity,0,1,0,0,2.5.05 Critical urban infrastructure and resilience,2 Digital and Technical
+48,1 GOVERNANCE AND MGMT,1.1 GPR,1.1.01,1,,1.1 Government Policy and Regulation,1,1,1,1,1.1.01 Degree of local autonomy in multilevel governance systems,1 Governance and Management
+49,1 GOVERNANCE AND MGMT,1.1 GPR,1.1.02,1,,1.1 Government Policy and Regulation,1,1,1,1,1.1.02 Data protection regulatory frameworks,1 Governance and Management
+50,1 GOVERNANCE AND MGMT,1.1 GPR,1.1.03,1,,1.1 Government Policy and Regulation,1,1,1,1,1.1.03 Legislative and regulatory landscape,1 Governance and Management
+51,1 GOVERNANCE AND MGMT,1.1 GPR,1.1.04,0.8,,1.1 Government Policy and Regulation,1,0,1,1,1.1.04 Local-authority internal resources (incl. human and financial),1 Governance and Management
+52,1 GOVERNANCE AND MGMT,1.1 GPR,1.1.05,1,,1.1 Government Policy and Regulation,1,1,1,1,1.1.05 Best practice in policy mobility,1 Governance and Management
+53,1 GOVERNANCE AND MGMT,1.2 CT,1.2.01,1,,1.2 Change and Transformation,1,1,1,1,1.2.01 Requirements management,1 Governance and Management
+54,1 GOVERNANCE AND MGMT,1.2 CT,1.2.02,0.8,,1.2 Change and Transformation,1,1,0,1,1.2.02 Organisational capability development,1 Governance and Management
+55,1 GOVERNANCE AND MGMT,1.2 CT,1.2.03,1,,1.2 Change and Transformation,1,1,1,1,1.2.03 Process management and improvement,1 Governance and Management
+56,1 GOVERNANCE AND MGMT,1.2 CT,1.2.04,1,,1.2 Change and Transformation,1,1,1,1,1.2.04 Project management,1 Governance and Management
+57,1 GOVERNANCE AND MGMT,1.2 CT,1.2.05,1,,1.2 Change and Transformation,1,1,1,1,1.2.05 Benefits management,1 Governance and Management
+58,1 GOVERNANCE AND MGMT,1.3 SC,1.3.01,1,,1.3 Stakeholders and Collaboration,1,1,1,1,1.3.01 Structure of governance networks,1 Governance and Management
+59,1 GOVERNANCE AND MGMT,1.3 SC,1.3.02,1,,1.3 Stakeholders and Collaboration,1,1,1,1,1.3.02 Dynamics of governance networks,1 Governance and Management
+60,1 GOVERNANCE AND MGMT,1.3 SC,1.3.03,0.8,,1.3 Stakeholders and Collaboration,1,0,1,1,1.3.03 Resource distribution and pooling in governance networks,1 Governance and Management
+61,1 GOVERNANCE AND MGMT,1.3 SC,1.3.04,0.8,,1.3 Stakeholders and Collaboration,0,1,1,1,1.3.04 Governance network management,1 Governance and Management
+62,1 GOVERNANCE AND MGMT,1.3 SC,1.3.05,1,,1.3 Stakeholders and Collaboration,1,1,1,1,1.3.05 Accountability,1 Governance and Management
+63,1 GOVERNANCE AND MGMT,1.3 SC,1.3.06,1,,1.3 Stakeholders and Collaboration,1,1,1,1,1.3.06 Data ownership and accessibility,1 Governance and Management
+64,1 GOVERNANCE AND MGMT,1.3 SC,1.3.07,1,,1.3 Stakeholders and Collaboration,1,1,1,1,1.3.07 Storytelling,1 Governance and Management
+65,1 GOVERNANCE AND MGMT,1.3 SC,1.3.08,1,,1.3 Stakeholders and Collaboration,1,1,1,1,1.3.08 Engagement methods and mechanisms (stakeholders),1 Governance and Management
+66,1 GOVERNANCE AND MGMT,1.3 SC,1.3.09,1,,1.3 Stakeholders and Collaboration,1,1,1,1,1.3.09 Representativeness,1 Governance and Management
+67,1 GOVERNANCE AND MGMT,1.4 CEP,1.4.01,0.8,,1.4 Citizen Engagement and Participation,1,0,1,1,1.4.01 Citizen science,1 Governance and Management
+68,1 GOVERNANCE AND MGMT,1.4 CEP,1.4.02,0.6,,1.4 Citizen Engagement and Participation,0,1,0.5,1,1.4.02 Vulnerability and marginalisation effects,1 Governance and Management
+69,1 GOVERNANCE AND MGMT,1.4 CEP,1.4.03,0.9,,1.4 Citizen Engagement and Participation,1,1,0.5,1,1.4.03 Engagement methods and mechanisms (citizens),1 Governance and Management
+70,1 GOVERNANCE AND MGMT,1.4 CEP,1.4.04,1,,1.4 Citizen Engagement and Participation,1,1,1,1,1.4.04 Transparency of governance processes,1 Governance and Management
+71,1 GOVERNANCE AND MGMT,1.4 CEP,1.4.05,1,,1.4 Citizen Engagement and Participation,1,1,1,1,1.4.05 Co-creation methods and good practices,1 Governance and Management
+72,1 GOVERNANCE AND MGMT,1.4 CEP,1.4.06,1,,1.4 Citizen Engagement and Participation,1,1,1,1,"1.4.06 Accessibility of tools, engagement, and information",1 Governance and Management
+73,1 GOVERNANCE AND MGMT,1.4 CEP,1.4.07,1,,1.4 Citizen Engagement and Participation,1,1,1,1,"1.4.07 Privacy (concept, value)",1 Governance and Management
+74,1 GOVERNANCE AND MGMT,1.4 CEP,1.4.08,1,,1.4 Citizen Engagement and Participation,1,1,1,1,1.4.08 Data ownership and accessibility,1 Governance and Management
+75,1 GOVERNANCE AND MGMT,1.4 CEP,1.4.09,0.8,,1.4 Citizen Engagement and Participation,1,1,0,1,1.4.09 Co-production of services,1 Governance and Management
+76,1 GOVERNANCE AND MGMT,1.4 CEP,1.4.10,0.8,,1.4 Citizen Engagement and Participation,0,1,1,1,1.4.10 Representativeness,1 Governance and Management
+77,1 GOVERNANCE AND MGMT,1.4 CEP,1.4.11,1,,1.4 Citizen Engagement and Participation,1,1,1,1,1.4.11 Expectation management ,1 Governance and Management
+78,1 GOVERNANCE AND MGMT,1.5 BM,1.5.01,1,,1.5 Business Models,1,1,1,1,"1.5.01 Creation, delivery and capture of value",1 Governance and Management
+79,1 GOVERNANCE AND MGMT,1.5 BM,1.5.02,0.9,,1.5 Business Models,1,0.5,1,1,1.5.02 Innovation support mechanisms,1 Governance and Management
+80,1 GOVERNANCE AND MGMT,1.5 BM,1.5.03,0.9,,1.5 Business Models,1,1,0.5,1,1.5.03 Market research ​and business opportunities ,1 Governance and Management
+81,1 GOVERNANCE AND MGMT,1.5 BM,1.5.04,1,,1.5 Business Models,1,1,1,1,1.5.04 Business integration opportunities  ​,1 Governance and Management
+82,1 GOVERNANCE AND MGMT,1.5 BM,1.5.05,1,,1.5 Business Models,1,1,1,1,1.5.05 Openness of technology adoption,1 Governance and Management
+83,1 GOVERNANCE AND MGMT,1.5 BM,1.5.06,1,,1.5 Business Models,1,1,1,1,1.5.06 Funding landscape ​,1 Governance and Management
+84,1 GOVERNANCE AND MGMT,1.5 BM,1.5.07,1,,1.5 Business Models,1,1,1,1,1.5.07 Marketing and sales​,1 Governance and Management
+85,1 GOVERNANCE AND MGMT,1.5 BM,1.5.08,1,,1.5 Business Models,1,1,1,1,1.5.08 Costs-benefit analysis,1 Governance and Management
+86,1 GOVERNANCE AND MGMT,1.5 BM,1.5.09,1,,1.5 Business Models,1,1,1,1,1.5.09 Customer preferences and interests ​,1 Governance and Management
+87,1 GOVERNANCE AND MGMT,1.5 BM,1.5.10,1,,1.5 Business Models,1,1,1,1,1.5.10 Operating models,1 Governance and Management
+88,1 GOVERNANCE AND MGMT,1.6 FP,1.6.01,1,,1.6 Finance and Procurement,1,1,1,1,1.6.01 Macro environment of sustainable investment priorities ​,1 Governance and Management
+89,1 GOVERNANCE AND MGMT,1.6 FP,1.6.02,0.8,,1.6 Finance and Procurement,1,1,0.5,0.5,1.6.02 Vendor management​,1 Governance and Management
+90,1 GOVERNANCE AND MGMT,1.6 FP,1.6.03,0.8,,1.6 Finance and Procurement,0,1,1,1,1.6.03 Benchmarking and performance tracking​​,1 Governance and Management
+91,1 GOVERNANCE AND MGMT,1.6 FP,1.6.04,0.8,,1.6 Finance and Procurement,0,1,1,1,1.6.04 Financial risk analysis​,1 Governance and Management
+92,1 GOVERNANCE AND MGMT,1.6 FP,1.6.05,1,,1.6 Finance and Procurement,1,1,1,1,1.6.05 Cost savings ​,1 Governance and Management
+93,1 GOVERNANCE AND MGMT,1.6 FP,1.6.06,1,,1.6 Finance and Procurement,1,1,1,1,1.6.06 Fund flow and profitability,1 Governance and Management
+94,1 GOVERNANCE AND MGMT,1.6 FP,1.6.07,1,,1.6 Finance and Procurement,1,1,1,1,1.6.07 Financial metrics and rate of return methods,1 Governance and Management
+95,1 GOVERNANCE AND MGMT,1.6 FP,1.6.08,1,,1.6 Finance and Procurement,1,1,1,1,1.6.08 Tax compliance,1 Governance and Management
+96,1 GOVERNANCE AND MGMT,1.6 FP,1.6.09,1,,1.6 Finance and Procurement,1,1,1,1,1.6.09 Financing tools,1 Governance and Management

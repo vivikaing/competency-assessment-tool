@@ -1,0 +1,17 @@
+{
+    "name": "Root",
+    "children": [
+        {
+            "name": "Arc1",
+            "value": 100
+        },
+        {
+            "name": "Arc2",
+            "value": 200
+        },
+        {
+            "name": "Arc3",
+            "value": 300
+        }
+    ]
+}
